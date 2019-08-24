@@ -18,6 +18,9 @@
 # Ignore master key for decrypting credentials and more.
 /api/config/master.key
 
+# Ignore .env file which has environment variable
+/api/.env
+
 # Files to ignore from project based on REACT
 # ======================================================
 
