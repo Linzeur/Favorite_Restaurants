@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer-list component 1`] = `
+<DocumentFragment>
+  <div
+    class="css-gn3t32-Footer"
+  >
+    <span
+      class="css-8ep07x-Footer"
+    >
+      Results:
+    </span>
+    <span
+      class="css-xp9py7-Footer"
+    >
+      5 locations
+    </span>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,377 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`list-favorite component cosuming API 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1ylqutl-Search"
+  >
+    <input
+      aria-label="Search an option"
+      class="css-x0timv-Search"
+      id="search"
+      name="search"
+      placeholder="Search an option"
+      type="text"
+    />
+  </div>
+  <ul
+    class="css-1h1c26y-ListFavorite"
+  >
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            La Familia
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            PIZZERIA FAMILY VEGA
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            Alphonse Bar
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+  </ul>
+  <div
+    class="css-gn3t32-Footer"
+  >
+    <span
+      class="css-8ep07x-Footer"
+    >
+      Results:
+    </span>
+    <span
+      class="css-xp9py7-Footer"
+    >
+      3 favorites
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`select an option 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1ylqutl-Search"
+  >
+    <input
+      aria-label="Search an option"
+      class="css-x0timv-Search"
+      id="search"
+      name="search"
+      placeholder="Search an option"
+      type="text"
+    />
+  </div>
+  <ul
+    class="css-1h1c26y-ListFavorite"
+  >
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            La Familia
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            PIZZERIA FAMILY VEGA
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li
+      class="css-70qvj9"
+    >
+      <div
+        aria-label="Element Favorite"
+        class="css-j2js4d"
+        role="button"
+      >
+        <svg
+          class="css-ywh1g1"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+          />
+        </svg>
+        <div
+          class="css-esxnue"
+        >
+          <span>
+            Alphonse Bar
+          </span>
+        </div>
+      </div>
+      <button
+        aria-label="Delete favorite restaurant"
+        class="css-10jcxoq"
+        type="button"
+      >
+        <svg
+          class="css-3fuzg5"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+          />
+        </svg>
+      </button>
+    </li>
+  </ul>
+  <div
+    class="css-gn3t32-Footer"
+  >
+    <span
+      class="css-8ep07x-Footer"
+    >
+      Results:
+    </span>
+    <span
+      class="css-xp9py7-Footer"
+    >
+      3 favorites
+    </span>
+  </div>
+</DocumentFragment>
+`;

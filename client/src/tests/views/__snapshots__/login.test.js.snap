@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component view 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1s2t2fo-Login"
+  >
+    <form
+      class="css-fl0flg-Login"
+    >
+      <h1
+        class="css-q6ww2i-Login"
+      >
+        LOGIN
+      </h1>
+      <label
+        class="css-jidqlr-Login"
+        for="email"
+      >
+        Email
+      </label>
+      <input
+        aria-label="Enter your email"
+        class="css-ulpja2-Login"
+        id="email"
+        name="email"
+        placeholder="Enter your email"
+        required=""
+        type="email"
+        value=""
+      />
+      <br />
+      <label
+        class="css-jidqlr-Login"
+        for="password"
+      >
+        Password
+      </label>
+      <input
+        aria-label="Enter your password"
+        autocomplete="off"
+        class="css-ulpja2-Login"
+        id="password"
+        name="password"
+        placeholder="Enter your password"
+        required=""
+        type="password"
+        value=""
+      />
+      <br />
+      <button
+        aria-label="Sign In User"
+        class="css-1vdzh6a-Login"
+        type="submit"
+      >
+        Log In
+      </button>
+      <br />
+      <label
+        class="css-1fdx9wf-Login"
+      >
+        <a
+          href="/signup"
+        >
+          Go to Sign up
+        </a>
+      </label>
+      <br />
+    </form>
+  </div>
+</DocumentFragment>
+`;

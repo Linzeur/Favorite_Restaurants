@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`detail-location component to create new location 1`] = `
+<DocumentFragment>
+  <section
+    class="css-wh9mvb-DetailLocation"
+  >
+    <form
+      class="css-1e3smbc-DetailLocation"
+    >
+      <div
+        class="css-r4e2nb-DetailLocation"
+      >
+        <h2>
+          New Location
+        </h2>
+      </div>
+      <hr />
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          Name
+        </label>
+        <input
+          aria-label="Enter Name"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="Name"
+          name="Name"
+          placeholder="Enter Name"
+          required=""
+          type="text"
+          value=""
+        />
+      </fieldset>
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          Address
+        </label>
+        <input
+          aria-label="Enter Address"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="Address"
+          name="Address"
+          placeholder="Enter Address"
+          required=""
+          type="text"
+          value=""
+        />
+      </fieldset>
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          District
+        </label>
+        <input
+          aria-label="Enter District"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="District"
+          name="District"
+          placeholder="Enter District"
+          required=""
+          type="text"
+          value=""
+        />
+      </fieldset>
+      <fieldset
+        class="css-qm5crd-DetailLocation"
+      >
+        <button
+          class="css-1sujpum-DetailLocation"
+          type="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="css-1sujpum-DetailLocation"
+        >
+          Save
+        </button>
+      </fieldset>
+    </form>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`detail-location component to edit an existing location 1`] = `
+<DocumentFragment>
+  <section
+    class="css-wh9mvb-DetailLocation"
+  >
+    <form
+      class="css-1e3smbc-DetailLocation"
+    >
+      <div
+        class="css-r4e2nb-DetailLocation"
+      >
+        <h2>
+          Edit Location
+        </h2>
+      </div>
+      <hr />
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          Name
+        </label>
+        <input
+          aria-label="Enter Name"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="Name"
+          name="Name"
+          placeholder="Enter Name"
+          required=""
+          type="text"
+          value="Ovalo Miraflores"
+        />
+      </fieldset>
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          Address
+        </label>
+        <input
+          aria-label="Enter Address"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="Address"
+          name="Address"
+          placeholder="Enter Address"
+          required=""
+          type="text"
+          value="Parque Kennedy"
+        />
+      </fieldset>
+      <fieldset
+        class="css-1ihc67e"
+      >
+        <label
+          class="css-19qo4af"
+        >
+          District
+        </label>
+        <input
+          aria-label="Enter District"
+          autocomplete="off"
+          class="css-1yxseax"
+          id="District"
+          name="District"
+          placeholder="Enter District"
+          required=""
+          type="text"
+          value="Miraflores"
+        />
+      </fieldset>
+      <fieldset
+        class="css-qm5crd-DetailLocation"
+      >
+        <button
+          class="css-1sujpum-DetailLocation"
+          type="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="css-1sujpum-DetailLocation"
+        >
+          Save
+        </button>
+      </fieldset>
+    </form>
+  </section>
+</DocumentFragment>
+`;

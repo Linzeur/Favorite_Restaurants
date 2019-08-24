@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`right-panel component 1`] = `
+<DocumentFragment>
+  <div
+    class="css-q05jr7-RightPanel"
+  >
+    <button
+      class="css-1cabchf-Button"
+      style="padding: 0.5em;"
+      type="button"
+    >
+      Current Location
+    </button>
+    <div
+      data-reach-tabs=""
+    >
+      <div
+        class="css-mowv2j-RightPanel"
+        data-reach-tab-list=""
+        role="tablist"
+      >
+        <button
+          aria-controls="panel:1:0"
+          aria-selected="true"
+          class="css-1n5xkbe-RightPanel"
+          data-reach-tab=""
+          data-selected=""
+          id="tab:1:0"
+          role="tab"
+          tabindex="0"
+        >
+          My Locations
+        </button>
+        <button
+          aria-controls="panel:1:1"
+          aria-selected="false"
+          class="css-1n5xkbe-RightPanel"
+          data-reach-tab=""
+          id="tab:1:1"
+          role="tab"
+          tabindex="-1"
+        >
+          My Favorites
+        </button>
+      </div>
+      <div
+        class="css-1upy4sj-RightPanel"
+        data-reach-tab-panels=""
+      >
+        <div
+          aria-labelledby="tab:1:0"
+          class="css-818u9c-RightPanel"
+          data-reach-tab-panel=""
+          id="panel:1:0"
+          role="tabpanel"
+          tabindex="-1"
+        >
+          <div
+            class="css-1ylqutl-Search"
+          >
+            <input
+              aria-label="Search an option"
+              class="css-x0timv-Search"
+              id="search"
+              name="search"
+              placeholder="Search an option"
+              type="text"
+            />
+            <button
+              aria-label="Create location"
+              class="css-1mgkve5-AddLocation"
+              type="button"
+            >
+              <svg
+                class="css-1g31t4l-AddLocation"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="css-w40flo-Spinner"
+          >
+            <div
+              class="css-lehx5n-Spinner"
+            />
+            <div
+              class="css-wk0iwg-Spinner"
+            />
+            <div
+              class="css-1xsj7ka-Spinner"
+            />
+          </div>
+          <div
+            class="css-gn3t32-Footer"
+          >
+            <span
+              class="css-8ep07x-Footer"
+            >
+              Results:
+            </span>
+            <span
+              class="css-xp9py7-Footer"
+            >
+              0 locations
+            </span>
+          </div>
+        </div>
+        <div
+          aria-labelledby="tab:1:1"
+          class="css-818u9c-RightPanel"
+          data-reach-tab-panel=""
+          hidden=""
+          id="panel:1:1"
+          role="tabpanel"
+          tabindex="-1"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
